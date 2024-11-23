@@ -38,3 +38,13 @@ python train_model.py
 
 # Start the FastAPI server
 uvicorn main:app --reload
+
+### Docker Setup
+
+1. Build the Docker image:
+
+```shell
+docker build -t student-performance-predictor .  # [Docker Build Docs](https://docs.docker.com/engine/reference/commandline/build)
+
+2. Run the container:
+docker run -p 8000:8000 student-performance-predictor  # [Docker Run Docs](https://docs.docker.com/engine/reference/commandline/run)
