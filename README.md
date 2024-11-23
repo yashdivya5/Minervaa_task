@@ -178,22 +178,5 @@ The prediction model uses a Random Forest Regressor with the following features:
 
 The model is trained on synthetic data generated to simulate realistic student performance patterns. In a production environment, this should be replaced with real historical student data.
 
-## Future Improvements
-
-- Implement authentication and authorization
-- Add more features (e.g., extracurricular activities, study hours)
-- Implement model retraining pipeline
-- Add more comprehensive error handling
-- Implement data validation and sanitization
-- Add unit tests and integration tests
-
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 
