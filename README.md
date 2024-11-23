@@ -197,11 +197,3 @@ The model is trained on synthetic data generated to simulate realistic student p
 5. Open a Pull Request
 
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-```plaintext
-
-This README.md provides comprehensive documentation for the project
-```
